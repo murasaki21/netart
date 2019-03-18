@@ -14,7 +14,7 @@ h3 { /* Matches elements with h3 tag */
 }
 
 #div1{ /* Matches element with id=SimpleDiv */
-	/*background-color: gray;*/
+	background-color: gray;*/
 
 	color: hotpink;
 
@@ -27,7 +27,7 @@ h3 { /* Matches elements with h3 tag */
 }
 
 #div2{
-	/*background-color: #CC1A54; /* remember the hastag with hex codes*/
+	background-color: #CC1A54; /* remember the hastag with hex codes*/
 	margin: 5%; /* Outside*/
 	padding: 6px; /* Inside*/
 	float: left; /* positions things left/right*/
@@ -35,7 +35,7 @@ h3 { /* Matches elements with h3 tag */
 }
 
 #div3{
-	/*background-color: #F1FF47;*/
+	background-color: #F1FF88;
 	margin: 5%;
 	padding: 6px;
 	float:right;
@@ -43,7 +43,7 @@ h3 { /* Matches elements with h3 tag */
 }
 
 #div4{
-	/*background-color: #D307FF;*/
+	background-color: #D307FF;
 	margin: 5%;
 	padding: 6px;
 	clear:both; <-- moves things to the bottom-->
